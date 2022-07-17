@@ -9,36 +9,48 @@ export const products: Product[] = [
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
     price: 24,
     title: "ProductOne",
+    imgSrc:
+      "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
   },
   {
     description: "Short Product Description7",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
     price: 15,
     title: "ProductTitle",
+    imgSrc:
+      "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
   },
   {
     description: "Short Product Description2",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
     price: 23,
     title: "Product",
+    imgSrc:
+      "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
   },
   {
     description: "Short Product Description4",
     id: "7567ec4b-b10c-48c5-9345-fc73348a80a1",
     price: 15,
     title: "ProductTest",
+    imgSrc:
+      "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
   },
   {
     description: "Short Product Descriptio1",
     id: "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
     price: 23,
     title: "Product2",
+    imgSrc:
+      "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
   },
   {
     description: "Short Product Description7",
     id: "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
     price: 15,
     title: "ProductName",
+    imgSrc:
+      "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
   },
 ];
 
@@ -53,6 +65,8 @@ export const cart: CartItem[] = [
       id: "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
       price: 24,
       title: "ProductOne",
+      imgSrc:
+        "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
     },
     count: 2,
   },
@@ -62,6 +76,8 @@ export const cart: CartItem[] = [
       id: "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
       price: 15,
       title: "ProductName",
+      imgSrc:
+        "https://www.rei.com/media/0108620f-59fd-4905-babc-38f98930e187.jpg",
     },
     count: 5,
   },
