@@ -1,5 +1,11 @@
 # React-shop-cloudfront
 
+###
+
+[S3 bucket](http://my-store-app.s3-website-eu-west-1.amazonaws.com/) - public access restricted
+
+[Cloudfront](https://d2u5xnsm5ri6iy.cloudfront.net/) - public access
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
